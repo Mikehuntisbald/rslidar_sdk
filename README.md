@@ -48,7 +48,7 @@ Download the rslidar_sdk as below. Since it contains the submodule rs_driver, pl
 
 
 ```sh
-git clone https://github.com/RoboSense-LiDAR/rslidar_sdk.git
+git clone [https://github.com/RoboSense-LiDAR/rslidar_sdk.git](https://github.com/Mikehuntisbald/rslidar_sdk)
 cd rslidar_sdk
 git submodule init
 git submodule update
